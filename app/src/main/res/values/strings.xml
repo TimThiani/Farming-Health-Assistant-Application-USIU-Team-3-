@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">farmHealth</string>
+    <string name="breed">Farm Health</string>
+    <string name="livestock_market_predictor">Livestock Market Predictor</string>
+    <string name="please_fill_in_the_animal_parameters">Please fill in the animal parameters</string>
+    <string name="breed1">Breed:</string>
+    <string name="county">County:</string>
+    <string name="predict">Predict</string>
+    <string name="enter_age_of_animal">Enter Age of animal</string>
+    <string name="enter_weight_of_animal">Enter Weight of animal</string>
+    <string name="gender">Gender</string>
+    <string-array name="spinner_breed">
+        <item>Select the cow breed...</item>
+        <item>Jersey</item>
+        <item>Ayrshire</item>
+        <item>Guernsey</item>
+    </string-array>
+
+    <string-array name="spinner_gender">
+        <item>Select gender (Cow/Bull)</item>
+        <item>Cow</item>
+        <item>Bull</item>
+
+    </string-array>
+
+    <string-array name="spinner_county">
+        <item>Select the county you want to make your sale..</item>
+        <item>Nairobi</item>
+        <item>Narok</item>
+        <item>Kajiado</item>
+        <item>Kiambu</item>
+        <item>Wajir</item>
+    </string-array>
+</resources>
